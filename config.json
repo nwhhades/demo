@@ -1,0 +1,22 @@
+[
+    {
+        "name": "天空资源网",
+        "api_type": "mac10",
+        "api_url": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/"
+    },
+    {
+        "name": "百度资源",
+        "api_type": "mac10",
+        "api_url": "https://api.apibdzy.com/api.php/provide/vod/"
+    },
+    {
+        "name": "森林资源网",
+        "api_type": "mac10",
+        "api_url": "https://beiyong.slapibf.com/api.php/provide/vod/"
+    },
+    {
+        "name": "光速资源网",
+        "api_type": "mac10",
+        "api_url": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+    }
+]
